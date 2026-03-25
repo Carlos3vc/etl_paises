@@ -7,7 +7,7 @@ def load(data):
         host='localhost',
         user='root',
         password='root2025',
-        database='bbbdd_g7'
+        database='bbdd_g7'
     )
 
     cursor = conn.cursor()
